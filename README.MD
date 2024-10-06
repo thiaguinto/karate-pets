@@ -20,7 +20,11 @@ Ejecuta los siguientes comandos para instalar todas las dependencias necesarias 
 usa el siguiente comando en la terminal:  
   mvn test 
 
-## 3. Información adicional
+## 3. Dirección de los reportes
+
+target/cucumber-html-reports
+
+## 5. Información adicional
 Si encuentras algún problema durante la configuración o la ejecución de las pruebas, asegúrate de que las variables de entorno estén configuradas correctamente y que todas las dependencias sean compatibles.
 
 
