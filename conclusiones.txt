@@ -1,0 +1,23 @@
+# Conclusiones del Ejercicio de Pruebas Automatizadas con Karate
+
+## Hallazgos
+
+1. **Eficiencia de las Pruebas**: Las pruebas automatizadas desarrolladas con Karate demostraron ser eficientes para validar las funcionalidades de la API. La capacidad de ejecutar pruebas en paralelo permitió reducir significativamente el tiempo total de ejecución.
+
+2. **Generación de Reportes**: La integración con Cucumber y la generación automática de reportes en formato HTML proporcionaron una visualización clara de los resultados de las pruebas, facilitando la identificación de fallos y el análisis de los mismos.
+
+3. **Configuración del Entorno**: La correcta configuración del entorno de ejecución, incluyendo las variables necesarias, fue fundamental para asegurar que las pruebas se ejecutaran sin inconvenientes. La falta de configuración adecuada puede llevar a errores que dificulten la ejecución de las pruebas.
+
+4. **Manejo de Errores**: Se identificaron varios errores en la API durante las pruebas, lo que resalta la importancia de tener un enfoque proactivo en la validación de las funcionalidades antes de pasar a producción.
+
+## Conclusiones
+
+1. **Beneficio de la Automatización**: La automatización de pruebas no solo mejora la eficiencia en el proceso de prueba, sino que también garantiza una mayor cobertura de pruebas. Esto es especialmente crucial en entornos de desarrollo ágiles, donde los cambios se implementan rápidamente.
+
+2. **Recomendación para la Práctica**: Es recomendable mantener una suite de pruebas automatizadas actualizada y revisada periódicamente. Esto ayudará a adaptarse a los cambios en la API y a asegurar que se mantenga la calidad del software.
+
+3. **Siguientes Pasos**: Para el futuro, se sugiere expandir la cobertura de las pruebas para incluir casos de prueba adicionales y considerar la implementación de pruebas de carga para evaluar el rendimiento de la API bajo condiciones de alta demanda.
+
+4. **Valor del Feedback**: La retroalimentación obtenida a través de la ejecución de pruebas automatizadas es invaluable. No solo ayuda a identificar problemas existentes, sino que también proporciona información para mejorar tanto la API como el proceso de prueba en sí.
+
+Este ejercicio ha demostrado ser una valiosa adición al proceso de desarrollo, y su continuidad es fundamental para asegurar la calidad de los productos.
